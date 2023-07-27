@@ -223,7 +223,7 @@ a {
 
 /* banner section style */
 .banner {
-    background-image: url(/picture/banner1.jpg);
+    background-image: url(picture/banner1.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     min-height: 602px;
